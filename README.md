@@ -1,7 +1,7 @@
 # Predicting Logic's Lyrics with Machine Learning
 Using simple machine-learning concepts, we can analyze Logic’s style of hip-hop and predict lyrics he would actually write.
   
-Written for and in Dennis Sun's DATA 301 class at Cal Poly SLO. Absolutely **no permission** is given to any person to use or submit any of this code as their own for any reason. I had a fantastic time trying to figure out this lab and simply wish to document and display this work for educational and personal purposes.
+Written for and in Dennis Sun's DATA 301 class at Cal Poly SLO. Absolutely **no permission** is given to any person to use or submit any of this code for any reason. I had a fantastic time trying to figure out this lab and simply wish to document and display this work for educational and personal purposes.
   
 **Language:**
   + Python 3
