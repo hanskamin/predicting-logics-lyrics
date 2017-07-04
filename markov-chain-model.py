@@ -46,9 +46,6 @@ lyrics = pickle.load(open("lyrics.pkl", "rb"))
 # Train a Markov Chain over all of Logic's lyrics.
 chain = train_markov_chain(lyrics)
 
-# Examine the words that tend to start a song (i.e. words following the <START> tag)
-print(chain[(None, "<START>")][:20])
-
 
 import random
 
