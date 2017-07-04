@@ -34,7 +34,7 @@ for link in links:
     lyrics.append(song_text)
 
 # Print out the lyrics to the first song.
-print(lyrics[0])
+print(lyrics[0][:227])
 
 # `pickle` is a Python package that serializes Python objects to disk so that you can load them in later.
 import pickle
