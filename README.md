@@ -13,8 +13,12 @@ Written for and in Dennis Sun's DATA 301 class at Cal Poly SLO. Absolutely **no 
   + `pickle`
   + `random`
   
-**Future Updates:**
-  + Use a recurrent neural network instead of a Markov chain.
-  + Figure out how to generate lines that consistently rhyme with each other.
+**Tasks:**
+  - [x] Break down all code into gists.
+  - [x] Make Python scripts for each main section of code.
+  - [x] Create a Jupyter Notebook. 
+  - [ ] Publish the Jupyter Notebook as a Medium post.
+  - [ ] Implement a recurrent neural network instead of a Markov chain.
+  - [ ] Figure out how to generate lines that consistently rhyme with each other.
   
 Please don't hesitate to either reach out to me or make pull requests with revisions to make this implementation better!
