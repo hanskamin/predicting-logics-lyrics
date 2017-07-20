@@ -19,7 +19,7 @@ Check out the [Medium post](https://medium.com/@hanzykamin/predicting-logics-lyr
   - [x] Break down all code into gists.
   - [x] Make Python scripts for each main section of code.
   - [x] Create a Jupyter Notebook. 
-  - [ ] Publish the Jupyter Notebook as a Medium post.
+  - [x] Publish the Jupyter Notebook as a Medium post.
   - [ ] Implement a recurrent neural network instead of a Markov chain.
   - [ ] Figure out how to generate lines that consistently rhyme with each other.
   
